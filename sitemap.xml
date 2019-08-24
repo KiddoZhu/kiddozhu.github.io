@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>kiddozhu.github.io/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/random/</loc>
+<loc>kiddozhu.github.io/random/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>kiddozhu.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publication/</loc>
+<loc>kiddozhu.github.io/publication/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resource/</loc>
+<loc>kiddozhu.github.io/resource/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/file/cv.pdf</loc>
+<loc>kiddozhu.github.io/file/cv.pdf</loc>
 <lastmod>2017-12-03T23:31:05-05:00</lastmod>
 </url>
 </urlset>
